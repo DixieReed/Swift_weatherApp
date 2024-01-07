@@ -43,6 +43,8 @@ Add your button at the base of the VStack:  <br/>
 <img src="https://imgur.com/eQUn8ea.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p align="center" text="italic"><i>Thank you to<a href="https://seanallen.teachable.com/"> Sean Allen</a> for an amazing <a href="https://www.youtube.com/watch?v=b1oC7sLIgpI&t=3312s">tutorial.</i></a></p>
+
 <!--
  ```diff
 - text in red
